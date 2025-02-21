@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    height: 70px;
+    width: 100%;
+    /* padding: 10px; */
+    padding: 0 10px 0 10px;
+    display: flex;
+    background: rgb(208, 233, 233);
+    justify-content: space-between;
+    align-items: center;
+}
